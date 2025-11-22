@@ -83,6 +83,9 @@ streamlit run app.py
 
 ---
 
+## **demo video**
+[Youtube](https://youtu.be/3Yqg091DSRY)
+
 ## ⭐ Contribute
 
 Feel free to fork and enhance the UI, add more languages, or integrate speech-to-text.
