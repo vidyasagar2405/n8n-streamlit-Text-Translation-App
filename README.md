@@ -1,6 +1,4 @@
-# n8n-streamlit-Text-Translation-App
-
-# 🌈 Text Translation App — Using n8n + Streamlit
+# Text Translation App — Using n8n + Streamlit
 
 A simple and powerful **English → Telugu / Hindi** translation app built with **Streamlit** as the frontend and **n8n AI Agent (Gemini)** as the backend processor. The app sends user input to an n8n webhook, which triggers an AI Agent to generate translated text and returns it back to the UI in real-time.
 
@@ -84,8 +82,5 @@ streamlit run app.py
 ---
 
 ## **demo video**
-[Youtube](https://youtu.be/3Yqg091DSRY)
+## [Video](https://youtu.be/3Yqg091DSRY)
 
-## ⭐ Contribute
-
-Feel free to fork and enhance the UI, add more languages, or integrate speech-to-text.
